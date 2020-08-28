@@ -1,0 +1,13 @@
+C:\Users\cstum\Documents\NaoPi2\bin\Debug\netcoreapp3.1\NaoPi2.exe
+C:\Users\cstum\Documents\NaoPi2\bin\Debug\netcoreapp3.1\NaoPi2.deps.json
+C:\Users\cstum\Documents\NaoPi2\bin\Debug\netcoreapp3.1\NaoPi2.runtimeconfig.json
+C:\Users\cstum\Documents\NaoPi2\bin\Debug\netcoreapp3.1\NaoPi2.runtimeconfig.dev.json
+C:\Users\cstum\Documents\NaoPi2\bin\Debug\netcoreapp3.1\NaoPi2.dll
+C:\Users\cstum\Documents\NaoPi2\bin\Debug\netcoreapp3.1\NaoPi2.pdb
+C:\Users\cstum\Documents\NaoPi2\obj\Debug\netcoreapp3.1\NaoPi2.csprojAssemblyReference.cache
+C:\Users\cstum\Documents\NaoPi2\obj\Debug\netcoreapp3.1\NaoPi2.AssemblyInfoInputs.cache
+C:\Users\cstum\Documents\NaoPi2\obj\Debug\netcoreapp3.1\NaoPi2.AssemblyInfo.cs
+C:\Users\cstum\Documents\NaoPi2\obj\Debug\netcoreapp3.1\NaoPi2.csproj.CoreCompileInputs.cache
+C:\Users\cstum\Documents\NaoPi2\obj\Debug\netcoreapp3.1\NaoPi2.dll
+C:\Users\cstum\Documents\NaoPi2\obj\Debug\netcoreapp3.1\NaoPi2.pdb
+C:\Users\cstum\Documents\NaoPi2\obj\Debug\netcoreapp3.1\NaoPi2.genruntimeconfig.cache
